@@ -1,4 +1,4 @@
-# Outreachy_sosobaccega_2022
+# Outreachy_sofia b chagas_2022
 
   I'm a brazilian science student and in Brazil we are living an exceptionally tense moment on denial of climate change. As environmental devastation is vectorized by government ignorant policies, this situation, in part, only got this far because our science culture it's not citizen science at all. We don't feel empowered to analyze the available data, even less to demand action based on it.
   In Latin America lies one of the world's biggest biodiversity hotspots (the amazon rainforest) and fertile lands. On the other hand, Brazil, LA's largest country, is one of the most intense CO2 and methane emitters in the world. A lot of this damage stays with us, our population and resources, but an enormous amount of it also affects everywhere, even worldwide: while we suffer with severe floods and droughts, air and water pollution, vulnerability of indigenous lands and communities in here, this contribution of greenhouse gasses unconditionally spreads way beyond borders. Urban and rural areas are being degraded, each in its own way.
